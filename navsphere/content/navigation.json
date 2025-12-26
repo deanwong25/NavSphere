@@ -200,6 +200,14 @@
           "description": "在 YouTube 上畅享你喜爱的视频和音乐，上传原创内容并与亲朋好友和全世界观众分享你的视频。",
           "icon": "/assets/favicon_1766720308274.png",
           "enabled": true
+        },
+        {
+          "id": "1766722902997",
+          "title": "www.douyin.com",
+          "href": "https://www.douyin.com",
+          "description": "",
+          "icon": "/assets/favicon_1766722913005.png",
+          "enabled": true
         }
       ],
       "subCategories": []
