@@ -216,6 +216,14 @@
           "description": "",
           "icon": "/assets/favicon_1766726131032.ico",
           "enabled": true
+        },
+        {
+          "id": "1766726250804",
+          "title": "Bilibili",
+          "href": "https://www.bilibili.com/",
+          "description": "访问 www.bilibili.com",
+          "icon": "/assets/favicon_1766726255429.png",
+          "enabled": true
         }
       ],
       "subCategories": []
