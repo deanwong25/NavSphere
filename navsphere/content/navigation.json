@@ -208,6 +208,14 @@
           "description": "",
           "icon": "/assets/favicon_1766722913005.png",
           "enabled": true
+        },
+        {
+          "id": "1766726123258",
+          "title": "www.ixigua.com",
+          "href": "https://www.ixigua.com/",
+          "description": "",
+          "icon": "/assets/favicon_1766726131032.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
