@@ -197,6 +197,15 @@
       "subCategories": []
     },
     {
+      "id": "1766719518529",
+      "title": "翻墙工具",
+      "icon": "Bell",
+      "description": "翻墙专用",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "9",
       "title": "AI工具包",
       "icon": "Brain",
@@ -1544,15 +1553,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1766719518529",
-      "title": "翻墙工具",
-      "icon": "Bell",
-      "description": "翻墙专用",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     }
   ]
 }
