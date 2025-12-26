@@ -1544,6 +1544,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1766719518529",
+      "title": "翻墙工具",
+      "icon": "Bell",
+      "description": "翻墙专用",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
