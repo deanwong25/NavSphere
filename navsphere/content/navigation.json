@@ -275,6 +275,14 @@
               "description": "https://my.dnshe.com/clientarea.php",
               "icon": "/assets/favicon_1766983790961.png",
               "enabled": true
+            },
+            {
+              "id": "1766983835350",
+              "title": "DigitalPlat Domain Dashboard Login",
+              "href": "https://dash.domain.digitalplat.org/panel/domains",
+              "description": "https://dash.domain.digitalplat.org/panel/domains",
+              "icon": "/assets/favicon_1766983837595.jpg",
+              "enabled": true
             }
           ]
         }
