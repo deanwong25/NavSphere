@@ -276,6 +276,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "4ead1593-7ccd-4c3b-be4c-9a8ba39c8c37",
+          "title": "大小鸡场",
+          "icon": "Target",
+          "description": "鸡场供应商",
+          "enabled": true,
+          "items": []
         }
       ]
     },
