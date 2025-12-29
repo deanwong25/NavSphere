@@ -291,6 +291,14 @@
               "description": "",
               "icon": "/assets/favicon_1766983994201.png",
               "enabled": true
+            },
+            {
+              "id": "1766984183608",
+              "title": "Artislg",
+              "href": "https://artislg.com/#/dashboard",
+              "description": "访问 artislg.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=artislg.com",
+              "enabled": true
             }
           ]
         }
