@@ -6,6 +6,14 @@
       "icon": "Star",
       "items": [
         {
+          "id": "1766987693656",
+          "title": "Noise导航 & 收录值得珍藏的网站",
+          "href": "https://www.noisedh.link/",
+          "description": "NOISE导航是一个综合类导航网站，提供AI、新媒体、影视、设计、编程等行业分类导航，发现值得珍藏的网站。",
+          "icon": "/assets/favicon_1766987696069.png",
+          "enabled": true
+        },
+        {
           "id": "1_2",
           "title": "Vercel",
           "href": "https://vercel.com/",
@@ -75,14 +83,6 @@
           "href": "https://postspark.app/",
           "description": "Beautiful Screenshots and Mockups\nCusomizable, eye-catching presentation for any content",
           "icon": "/assets/img_1741747241014.webp",
-          "enabled": true
-        },
-        {
-          "id": "1766987693656",
-          "title": "Noise导航 & 收录值得珍藏的网站",
-          "href": "https://www.noisedh.link/",
-          "description": "NOISE导航是一个综合类导航网站，提供AI、新媒体、影视、设计、编程等行业分类导航，发现值得珍藏的网站。",
-          "icon": "/assets/favicon_1766987696069.png",
           "enabled": true
         },
         {
