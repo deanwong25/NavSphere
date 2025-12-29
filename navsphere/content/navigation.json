@@ -234,16 +234,7 @@
       "icon": "Bell",
       "description": "翻墙专用",
       "enabled": true,
-      "items": [
-        {
-          "id": "1766983542192",
-          "title": "免费DNS托管，Cloud DNS托管和域名 | ClouDNS",
-          "href": "https://www.cloudns.net/index/lang/chs/",
-          "description": "免费DNS，云DNS，托管DNS，GeoDNS和DDoS保护DNS托管，包括Web重定向，邮件转发和Round-Robin负载平衡。 欧洲，北美和南美，亚洲和澳大利亚的即时更新。",
-          "icon": "/assets/favicon_1766983544115.gif",
-          "enabled": true
-        }
-      ],
+      "items": [],
       "subCategories": [
         {
           "id": "452c620e-19d8-4ede-b124-a00becd8ee8e",
