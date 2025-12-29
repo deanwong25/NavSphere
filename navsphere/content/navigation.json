@@ -240,6 +240,14 @@
           "description": "https://www.facebook.com/",
           "icon": "/assets/favicon_1766985028208.ico",
           "enabled": true
+        },
+        {
+          "id": "1766985049096",
+          "title": "Twitch",
+          "href": "https://www.twitch.tv/",
+          "description": "Twitch 是一种交互式直播服务，内容涵盖游戏、娱乐、体育、音乐等。",
+          "icon": "/assets/favicon_1766985051215.png",
+          "enabled": true
         }
       ],
       "subCategories": []
