@@ -232,6 +232,14 @@
           "description": "https://www.instagram.com/",
           "icon": "/assets/favicon_1766984995258.png",
           "enabled": true
+        },
+        {
+          "id": "1766985025911",
+          "title": "Facebook - 登录或注册",
+          "href": "https://www.facebook.com/",
+          "description": "https://www.facebook.com/",
+          "icon": "/assets/favicon_1766985028208.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
