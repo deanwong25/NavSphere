@@ -929,6 +929,14 @@
               "description": "Search & download thousands of logos instantly",
               "icon": "/assets/images/logos/InstantLogoSearch.webp",
               "enabled": true
+            },
+            {
+              "id": "1766988426730",
+              "title": "IcoFont",
+              "href": "https://icofont.com/",
+              "description": "Download from our extensive collection of 2400+ free, high-quality icons including duotone. Ideal for enhancing your designs, websites, mobile apps, and software.",
+              "icon": "/assets/favicon_1766988429658.svg",
+              "enabled": true
             }
           ]
         },
