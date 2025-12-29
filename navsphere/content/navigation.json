@@ -304,6 +304,14 @@
           "description": "斗鱼 - 看见每种热爱 提供高清、快捷、流畅的视频直播和游戏赛事直播服务，包含英雄联盟lol直播、穿越火线cf直播、dota2直播、美女直播等各类热门游戏赛事直播和各种名家大神游戏直播，内容丰富，推送及时，带给你不一样的视听体验，一切尽在斗鱼 - 每个人的直播平台。",
           "icon": "/assets/favicon_1766985235991.ico",
           "enabled": true
+        },
+        {
+          "id": "1766985341745",
+          "title": "Weibo",
+          "href": "https://weibo.com/newlogin?tabtype=weibo&gid=102803&openLoginLayer=0&url=https%3A%2F%2Fweibo.com%2F",
+          "description": "访问 weibo.com",
+          "icon": "/assets/favicon_1766985345278.png",
+          "enabled": true
         }
       ],
       "subCategories": []
