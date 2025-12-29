@@ -953,6 +953,14 @@
               "description": "從Freepik下載最受歡迎免費矢量标志下载矢量。探索AI生成矢量和圖庫矢量，並使用優質素材，提升您的項目至另一水平！",
               "icon": "/assets/favicon_1766988600990.png",
               "enabled": true
+            },
+            {
+              "id": "1766988639417",
+              "title": "Logopond - Logo, Brand &amp; Identity Inspiration",
+              "href": "https://logopond.com/",
+              "description": "logopond.com",
+              "icon": "/assets/favicon_1766988642031.png",
+              "enabled": true
             }
           ]
         },
