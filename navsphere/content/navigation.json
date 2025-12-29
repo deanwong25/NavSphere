@@ -234,7 +234,16 @@
       "icon": "Bell",
       "description": "翻墙专用",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1766981916191",
+          "title": "迈向未来 - Spaceship",
+          "href": "https://www.spaceship.com/zh/",
+          "description": "通过 Spaceship 域名、主机、邮箱及其他在线产品和解决方案，轻松上线。Spaceship 通过顶级产品、安全和隐私，将您与数字产品连接，并通过强大且快速的平台进行管理，助力您的创意。",
+          "icon": "/assets/favicon_1766981919481.svg",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
