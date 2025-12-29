@@ -962,6 +962,14 @@
               "description": "免费素材图片",
               "icon": "/assets/favicon_1766988208528.png",
               "enabled": true
+            },
+            {
+              "id": "1766988279832",
+              "title": "SplitShire - Free Stock Photos &amp; Videos",
+              "href": "https://www.splitshire.com",
+              "description": "SplitShire, a free stock photo and video platform offering high-quality, royalty-free images and videos for personal and commercial use.",
+              "icon": "/assets/favicon_1766988289216.ico",
+              "enabled": true
             }
           ]
         }
