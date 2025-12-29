@@ -275,7 +275,16 @@
           "icon": "BookOpen",
           "description": "域名提供商免费付费",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1766983749406",
+              "title": "Spaceship",
+              "href": "https://www.spaceship.com/zh/",
+              "description": "访问 www.spaceship.com",
+              "icon": "/assets/favicon_1766983752130.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
