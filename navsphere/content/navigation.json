@@ -937,6 +937,14 @@
               "description": "Download from our extensive collection of 2400+ free, high-quality icons including duotone. Ideal for enhancing your designs, websites, mobile apps, and software.",
               "icon": "/assets/favicon_1766988429658.svg",
               "enabled": true
+            },
+            {
+              "id": "1766988526097",
+              "title": "Freepik | All-in-One AI Creative Suite",
+              "href": "https://www.freepik.com/",
+              "description": "The only creative suite you need—AI tools, smart features, and high-quality stock assets to design and create without ever leaving Freepik.",
+              "icon": "/assets/favicon_1766988529522.png",
+              "enabled": true
             }
           ]
         },
