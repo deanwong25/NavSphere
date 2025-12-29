@@ -250,6 +250,14 @@
           "description": "访问 my.dnshe.com",
           "icon": "/assets/favicon_1766981952822.jpg",
           "enabled": true
+        },
+        {
+          "id": "1766982438182",
+          "title": "DigitalPlat Domain Dashboard Login",
+          "href": "https://dash.domain.digitalplat.org/panel/domains",
+          "description": "",
+          "icon": "/assets/favicon_1766982440851.jpg",
+          "enabled": true
         }
       ],
       "subCategories": []
