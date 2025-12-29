@@ -275,6 +275,14 @@
               "description": "访问 www.spaceship.com",
               "icon": "/assets/favicon_1766983752130.png",
               "enabled": true
+            },
+            {
+              "id": "1766983787942",
+              "title": "Client Area - DNSHE",
+              "href": "https://my.dnshe.com/clientarea.php",
+              "description": "https://my.dnshe.com/clientarea.php",
+              "icon": "/assets/favicon_1766983790961.png",
+              "enabled": true
             }
           ]
         }
