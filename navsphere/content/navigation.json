@@ -247,7 +247,7 @@
           "id": "1766981950054",
           "title": "DigitalPlat Domain Dashboard Login",
           "href": "https://my.dnshe.com/clientarea.php",
-          "description": "访问 my.dnshe.com",
+          "description": "https://my.dnshe.com/clientarea.php",
           "icon": "/assets/favicon_1766981952822.jpg",
           "enabled": true
         },
