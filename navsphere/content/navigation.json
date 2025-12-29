@@ -977,6 +977,14 @@
               "description": "The largest FREE transparent PNG images clipart catalog for design and web design in best resolution and quality",
               "icon": "/assets/favicon_1766988716582.ico",
               "enabled": true
+            },
+            {
+              "id": "1766988856066",
+              "title": "Heritage Type Co.",
+              "href": "https://www.heritagetype.com/",
+              "description": "Heritage Type Co. is a type foundry with a focus on vintage type design. We mainly provide high quality display fonts which stand out due to their artistic and precise workmanship – always in respect of traditional type design with a modern interpretation.",
+              "icon": "/assets/favicon_1766988859145.png",
+              "enabled": true
             }
           ]
         },
