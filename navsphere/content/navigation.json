@@ -945,6 +945,14 @@
               "description": "The only creative suite you need—AI tools, smart features, and high-quality stock assets to design and create without ever leaving Freepik.",
               "icon": "/assets/favicon_1766988529522.png",
               "enabled": true
+            },
+            {
+              "id": "1766988598096",
+              "title": "矢量标志下载矢量 | Freepik",
+              "href": "https://zh.freepik.com/%E7%9F%A2%E9%87%8F/%E7%9F%A2%E9%87%8F%E6%A0%87%E5%BF%97%E4%B8%8B%E8%BD%BD",
+              "description": "從Freepik下載最受歡迎免費矢量标志下载矢量。探索AI生成矢量和圖庫矢量，並使用優質素材，提升您的項目至另一水平！",
+              "icon": "/assets/favicon_1766988600990.png",
+              "enabled": true
             }
           ]
         },
