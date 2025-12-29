@@ -954,6 +954,14 @@
               "description": "免费高清图片",
               "icon": "/assets/images/logos/unsplash.webp",
               "enabled": true
+            },
+            {
+              "id": "1766988203596",
+              "title": "Pexels",
+              "href": "https://www.pexels.com/zh-cn/",
+              "description": "免费素材图片",
+              "icon": "/assets/favicon_1766988208528.png",
+              "enabled": true
             }
           ]
         }
