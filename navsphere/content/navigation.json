@@ -268,7 +268,16 @@
           "enabled": true
         }
       ],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "452c620e-19d8-4ede-b124-a00becd8ee8e",
+          "title": "域名商家",
+          "icon": "BookOpen",
+          "description": "域名提供商免费付费",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "2",
