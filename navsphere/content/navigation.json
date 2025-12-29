@@ -255,7 +255,7 @@
           "id": "1766982438182",
           "title": "DigitalPlat Domain Dashboard Login",
           "href": "https://dash.domain.digitalplat.org/panel/domains",
-          "description": "",
+          "description": "https://dash.domain.digitalplat.org/panel/domains",
           "icon": "/assets/favicon_1766982440851.jpg",
           "enabled": true
         }
