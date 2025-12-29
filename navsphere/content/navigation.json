@@ -283,7 +283,16 @@
           "icon": "Target",
           "description": "鸡场供应商",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1766983992134",
+              "title": "ccgfw.top",
+              "href": "https://okgg.top/auth/login",
+              "description": "",
+              "icon": "/assets/favicon_1766983994201.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
