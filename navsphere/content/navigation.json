@@ -969,6 +969,14 @@
               "description": "Free SVG Image &amp; Icon.",
               "icon": "/assets/favicon_1766988687455.ico",
               "enabled": true
+            },
+            {
+              "id": "1766988713596",
+              "title": "PNG images",
+              "href": "https://pngimg.com/",
+              "description": "The largest FREE transparent PNG images clipart catalog for design and web design in best resolution and quality",
+              "icon": "/assets/favicon_1766988716582.ico",
+              "enabled": true
             }
           ]
         },
