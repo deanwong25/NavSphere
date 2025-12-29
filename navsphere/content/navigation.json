@@ -224,6 +224,14 @@
           "description": "访问 www.bilibili.com",
           "icon": "/assets/favicon_1766726255429.png",
           "enabled": true
+        },
+        {
+          "id": "1766984991465",
+          "title": "Instagram",
+          "href": "https://www.instagram.com/",
+          "description": "https://www.instagram.com/",
+          "icon": "/assets/favicon_1766984995258.png",
+          "enabled": true
         }
       ],
       "subCategories": []
