@@ -288,6 +288,14 @@
           "description": "Steam is the ultimate destination for playing, discussing, and creating games.",
           "icon": "/assets/favicon_1766985191426.ico",
           "enabled": true
+        },
+        {
+          "id": "1766985210936",
+          "title": "KOOK,一个好用的语音沟通工具 - 官方网站",
+          "href": "https://www.kookapp.cn/",
+          "description": "KOOK,一个好用的语音沟通工具。目前已覆盖PC端、安卓端、IOS端、网页端设备，无论你在什么地方，都可以畅快沟通。KOOK里有各种主题的服务器，你也可以根据自己的喜好，创建游戏、音乐、阅读、外语等等主题的服务器，邀请好友加入到你的服务器里谈天说地。",
+          "icon": "/assets/favicon_1766985215583.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
