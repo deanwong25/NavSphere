@@ -961,6 +961,14 @@
               "description": "logopond.com",
               "icon": "/assets/favicon_1766988642031.png",
               "enabled": true
+            },
+            {
+              "id": "1766988685752",
+              "title": "Free SVG Image &amp; Icon. | SVG Silh",
+              "href": "https://svgsilh.com/",
+              "description": "Free SVG Image &amp; Icon.",
+              "icon": "/assets/favicon_1766988687455.ico",
+              "enabled": true
             }
           ]
         },
