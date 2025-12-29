@@ -78,6 +78,14 @@
           "enabled": true
         },
         {
+          "id": "1766987693656",
+          "title": "Noise导航 & 收录值得珍藏的网站",
+          "href": "https://www.noisedh.link/",
+          "description": "NOISE导航是一个综合类导航网站，提供AI、新媒体、影视、设计、编程等行业分类导航，发现值得珍藏的网站。",
+          "icon": "/assets/favicon_1766987696069.png",
+          "enabled": true
+        },
+        {
           "id": "item-1754218579319",
           "enabled": true,
           "title": "DeepSeek - 探索未至之境",
@@ -156,14 +164,6 @@
           "href": "https://pagespeed.web.dev/",
           "description": "",
           "icon": "/assets/favicon_1765687105275.webp"
-        },
-        {
-          "id": "1766987693656",
-          "title": "Noise导航 & 收录值得珍藏的网站",
-          "href": "https://www.noisedh.link/",
-          "description": "NOISE导航是一个综合类导航网站，提供AI、新媒体、影视、设计、编程等行业分类导航，发现值得珍藏的网站。",
-          "icon": "/assets/favicon_1766987696069.png",
-          "enabled": true
         }
       ],
       "subCategories": [],
