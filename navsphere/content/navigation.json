@@ -248,6 +248,14 @@
           "description": "Twitch 是一种交互式直播服务，内容涵盖游戏、娱乐、体育、音乐等。",
           "icon": "/assets/favicon_1766985051215.png",
           "enabled": true
+        },
+        {
+          "id": "1766985069210",
+          "title": "Quora",
+          "href": "https://www.quora.com/",
+          "description": "访问 www.quora.com",
+          "icon": "/assets/favicon_1766985071359.png",
+          "enabled": true
         }
       ],
       "subCategories": []
