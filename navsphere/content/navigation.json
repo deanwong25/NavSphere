@@ -258,6 +258,14 @@
           "description": "https://dash.domain.digitalplat.org/panel/domains",
           "icon": "/assets/favicon_1766982440851.jpg",
           "enabled": true
+        },
+        {
+          "id": "1766983542192",
+          "title": "免费DNS托管，Cloud DNS托管和域名 | ClouDNS",
+          "href": "https://www.cloudns.net/index/lang/chs/",
+          "description": "免费DNS，云DNS，托管DNS，GeoDNS和DDoS保护DNS托管，包括Web重定向，邮件转发和Round-Robin负载平衡。 欧洲，北美和南美，亚洲和澳大利亚的即时更新。",
+          "icon": "/assets/favicon_1766983544115.gif",
+          "enabled": true
         }
       ],
       "subCategories": []
