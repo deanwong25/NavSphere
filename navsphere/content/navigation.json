@@ -242,6 +242,14 @@
           "description": "通过 Spaceship 域名、主机、邮箱及其他在线产品和解决方案，轻松上线。Spaceship 通过顶级产品、安全和隐私，将您与数字产品连接，并通过强大且快速的平台进行管理，助力您的创意。",
           "icon": "/assets/favicon_1766981919481.svg",
           "enabled": true
+        },
+        {
+          "id": "1766981950054",
+          "title": "DigitalPlat Domain Dashboard Login",
+          "href": "https://my.dnshe.com/clientarea.php",
+          "description": "访问 my.dnshe.com",
+          "icon": "/assets/favicon_1766981952822.jpg",
+          "enabled": true
         }
       ],
       "subCategories": []
