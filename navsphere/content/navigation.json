@@ -272,6 +272,14 @@
           "description": "Discord is great for playing games and chilling with friends, or even building a worldwide community. Customize your own space to talk, play, and hang out.",
           "icon": "/assets/favicon_1766985132827.png",
           "enabled": true
+        },
+        {
+          "id": "1766985154745",
+          "title": "Pinterest",
+          "href": "https://www.pinterest.com/",
+          "description": "发现想要尝试的食谱、家居创意、时尚灵感及其他创意点子。",
+          "icon": "/assets/favicon_1766985157343.png",
+          "enabled": true
         }
       ],
       "subCategories": []
