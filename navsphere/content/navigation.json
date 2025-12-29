@@ -256,6 +256,14 @@
           "description": "访问 www.quora.com",
           "icon": "/assets/favicon_1766985071359.png",
           "enabled": true
+        },
+        {
+          "id": "1766985090016",
+          "title": "Odysee",
+          "href": "https://odysee.com/",
+          "description": "Explore a whole universe of videos on Odysee from regular people just like you!",
+          "icon": "/assets/favicon_1766985091828.png",
+          "enabled": true
         }
       ],
       "subCategories": []
