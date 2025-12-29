@@ -280,6 +280,14 @@
           "description": "发现想要尝试的食谱、家居创意、时尚灵感及其他创意点子。",
           "icon": "/assets/favicon_1766985157343.png",
           "enabled": true
+        },
+        {
+          "id": "1766985188330",
+          "title": "欢迎来到 Steam",
+          "href": "https://store.steampowered.com/",
+          "description": "Steam is the ultimate destination for playing, discussing, and creating games.",
+          "icon": "/assets/favicon_1766985191426.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
