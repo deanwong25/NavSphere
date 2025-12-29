@@ -236,14 +236,6 @@
       "enabled": true,
       "items": [
         {
-          "id": "1766982438182",
-          "title": "DigitalPlat Domain Dashboard Login",
-          "href": "https://dash.domain.digitalplat.org/panel/domains",
-          "description": "https://dash.domain.digitalplat.org/panel/domains",
-          "icon": "/assets/favicon_1766982440851.jpg",
-          "enabled": true
-        },
-        {
           "id": "1766983542192",
           "title": "免费DNS托管，Cloud DNS托管和域名 | ClouDNS",
           "href": "https://www.cloudns.net/index/lang/chs/",
