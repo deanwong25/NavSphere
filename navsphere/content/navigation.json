@@ -86,14 +86,6 @@
           "enabled": true
         },
         {
-          "id": "item-1754218579319",
-          "enabled": true,
-          "title": "DeepSeek - 探索未至之境",
-          "href": "https://chat.deepseek.com/",
-          "description": "Chat with DeepSeek AI – your intelligent assistant for coding, content creation, file reading, and more. Upload documents, engage in long-context conversations, and get expert help in AI, natural language processing, and beyond. | 深度求索（DeepSeek）助力编程代码开发、创意写作、文件处理等任务，支持文件上传及长文本对话，随时为您提供高效的AI支持。",
-          "icon": "/assets/favicon_1754218571142.svg"
-        },
-        {
           "id": "1754229699374",
           "title": "Lucide",
           "href": "https://lucide.dev/",
@@ -142,14 +134,6 @@
           "enabled": true
         },
         {
-          "id": "item-1765355064106",
-          "enabled": true,
-          "title": "NavSphere导航",
-          "href": "https://dh.leti.ltd/",
-          "description": "收集国内外优秀设计网站、UI设计资源网站、灵感创意网站、素材资源网站，定时更新分享优质产品设计书签。",
-          "icon": "/assets/favicon_1765355057814.webp"
-        },
-        {
           "id": "item-1765686645674",
           "enabled": true,
           "title": "Google 趋势",
@@ -164,6 +148,14 @@
           "href": "https://pagespeed.web.dev/",
           "description": "",
           "icon": "/assets/favicon_1765687105275.webp"
+        },
+        {
+          "id": "1768145641850",
+          "title": "microsoft 开发者",
+          "href": "https://partner.microsoft.com/zh-cn/dashboard/microsoftedge/overview",
+          "description": "edge 插件上传地址",
+          "icon": "/assets/favicon_1768145646425.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
